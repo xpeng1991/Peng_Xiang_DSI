@@ -17,4 +17,31 @@ anything between the stars and slashes is ignored by the browser
  */
 
 //Alert - gives the user information but returns nothing to us
-alert("blunt");
+alert("welcome to fullsail");
+
+//Console logging information
+console.log("this is the console. learn to love it!");
+
+//declare a variable
+//start with the keyword var
+var whatever;  //declaration of a variable
+//define the variable
+whatever = 45;
+//create a storage container = value;
+
+//declare and define a variable
+var a = 2;
+
+//send variable value to the console so we can see it
+console.log(a);
+
+
+
+
+
+
+
+
+
+
+
