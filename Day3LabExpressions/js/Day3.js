@@ -28,7 +28,7 @@ console.log("Each person ate " + slicePerPerson + " slices of pizza at the party
 // declare another variable for Sparky
 var sparky;
 
-// sovle the math problem
+// solve the math problem
 sparky = pizza * slices % people;
 
 // show result
@@ -53,7 +53,25 @@ console.log("You have spent a total of $" + total +
     " on groceries over 5 weeks. That is an average of $" + average + " per week");
 
 
-// Dis
+// Discounts
+
+// declare and initiation variables
+var orgPrice = 199.99;
+var disPercent = 0.75;   // 25% off
+var item = "Muffler";
+var tax = 0.15;  // 15% tax 
+
+// solve math problem
+var pTax = orgPrice * disPercent;
+pTax = (pTax * tax) + pTax;
+
+var priceNoTax = orgPrice * disPercent;
+
+// return values
+console.log("Your " + item + " was originally $" + orgPrice +
+    ", but after a 25% discount, it is now $" + priceNoTax +
+    " without tax, and $" + pTax + " with tax.")
+
 
 
 
