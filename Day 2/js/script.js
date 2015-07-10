@@ -48,7 +48,7 @@ var b;
 b = a + 3;
 
 console.log(a);
-console.log(b);
+console.log("the value of b is " + b);
 
 //simple math
 //find our age
@@ -136,6 +136,25 @@ console.log(phrase);
 var yes = true;
 var no = false;
 
+// simple math problems
+// find the perimeter of a rectangle
+var side1 = 7;
+var length1 = 6;
+var perimeter = side1 * 2 + length1 * 2;
+console.log(perimeter);
+
+//concatenation - combining text
+var firstName = "Kermit";
+var lastName = "The Frog";
+var fullName = firstName + " " + lastName;
+console.log(fullName + " is the color " + kermit);
+
+
+// anything you use + with text - it changes EVERYTHING to text;
+var d = "6";
+var e = 7;
+var combine = d + e;
+console.log(combine);
 
 
 
