@@ -102,6 +102,41 @@ tester /= 3; // tester = tester / 3
 tester *= 6; // tester = tester * 6
 console.log(tester);
 
+// orders of operation
+// PEMDAS
+// parenthesis, exponents, multiply, divide, add, subtract
+
+// find quiz average
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 70;
+
+// add up all of them and divide the number of them
+var average = (quiz1 + quiz2 + quiz3) / 3;
+console.log(average);
+
+// string - text for coding
+// must have matching " or '
+// needed to separate variable names from standard text
+
+var kermit = "Light green";
+var frogName = "kermit";
+
+console.log(frogName);
+
+// double or single quote
+// escape character \ backslash
+var phrase = 'I don\'t know.\nYou never know';
+console.log(phrase);
+
+// \n new line
+
+
+// Booleans - true or false
+var yes = true;
+var no = false;
+
+
 
 
 
