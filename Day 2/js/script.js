@@ -58,6 +58,52 @@ var yearBorn = 1991;
 var age = 2015 - yearBorn - 1;
 console.log(age);
 
+// MATH!!
+// +, -, *, /
+
+//Find the area of a triangle
+var width = 8;
+var height = 7;
+
+var areaTriangle = width * height / 2;
+console.log(areaTriangle);
+
+// Module - %
+// gives you the remainder
+
+var remainder = 31 % 3;
+console.log(remainder);
+
+//find out if even or odd
+//mod by 2
+
+var evenOrOdd = 67 % 2;
+console.log(evenOrOdd);
+// 0 means even
+// 1 means odd
+
+// Assignment Operator
+/*
+ =  assignment operator - "is"
+ ++ adds 1 to the current value of the variable
+ -- subtract 1 from the current value
+ += addition assignment operator - adds the value after it to the current value
+ -= subtract
+ *= multiply
+ /= divide by the current value
+ */
+
+var tester = 5;
+tester++; // tester = tester + 1
+tester--; // tester = tester - 1
+tester += 3; // tester = tester + 3
+tester -= 6; // tester = tester - 2
+tester /= 3; // tester = tester / 3
+tester *= 6; // tester = tester * 6
+console.log(tester);
+
+
+
 
 
 
