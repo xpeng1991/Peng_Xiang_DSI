@@ -59,7 +59,7 @@ console.log("You have spent a total of $" + total +
 var orgPrice = 199.99;
 var disPercent = 0.75;   // 25% off
 var item = "Muffler";
-var tax = 0.15;  // 15% tax 
+var tax = 0.15;  // 15% tax
 
 // solve math problem
 var pTax = orgPrice * disPercent;
