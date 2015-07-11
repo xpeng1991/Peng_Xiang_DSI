@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b37f6a-dd9b-45cd-87a6-793536ff8ed2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 3/js/day3_array.js" afterPath="$PROJECT_DIR$/Day 3/js/day3_array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 3/Day3Prompts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 3/js/day3_prompts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Peng_Xiang_DSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day3_array.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 3/js/day3_array.js">
+      <file leaf-file-name="day3_prompts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 3/js/day3_prompts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.79646015">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -35,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day3_array.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 3/day3_array.html">
+      <file leaf-file-name="Day3Prompts.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 3/Day3Prompts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.1146789">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -68,6 +70,8 @@
         <option value="$PROJECT_DIR$/Day3LabExpressions/js/Day3.js" />
         <option value="$PROJECT_DIR$/Day 3/day3_array.html" />
         <option value="$PROJECT_DIR$/Day 3/js/day3_array.js" />
+        <option value="$PROJECT_DIR$/Day 3/js/day3_prompts.js" />
+        <option value="$PROJECT_DIR$/Day 3/Day3Prompts.html" />
       </list>
     </option>
   </component>
@@ -307,21 +311,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 3/js/day3_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/day3_array.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/js/day3_array.js">
+    <entry file="file://$PROJECT_DIR$/Day 3/js/day3_prompts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79646015">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 3/Day3Prompts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1146789">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
