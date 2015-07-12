@@ -44,11 +44,10 @@ console.log(answer);
 alert(answer);
 
 
-
 /*
-test 1: entered: 15, 20, 25, 30, 50, and got answer: 28
-test 2: entered: 7, 15, 44, 32, 9, and got answer: 21.4
-test 3: entered: 11.3, 56.3, 24.9, 67.2, 12.9, and got answer: 34.519999999999996
+ test 1: entered: 15, 20, 25, 30, 50, and got answer: 28
+ test 2: entered: 7, 15, 44, 32, 9, and got answer: 21.4
+ test 3: entered: 11.3, 56.3, 24.9, 67.2, 12.9, and got answer: 34.519999999999996
  */
 
 
