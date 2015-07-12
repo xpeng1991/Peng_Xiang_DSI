@@ -32,7 +32,9 @@ arr[index] = prompt("Please enter another number:");
 
 console.log(arr);
 
-
+// calculate the average value based on users' input
+var value = (parseFloat(arr[0]) + parseFloat(arr[1]) + parseFloat(arr[2])
+    + parseFloat(arr[3]) + parseFloat(arr[4])) / 5;
 
 // show us the result
 var answer = "You entered: " + arr[0] + ", " + arr[1] + ", " + arr[2] + ", " +
@@ -40,6 +42,7 @@ var answer = "You entered: " + arr[0] + ", " + arr[1] + ", " + arr[2] + ", " +
 
 console.log(answer);
 alert(answer);
+
 
 
 /*
