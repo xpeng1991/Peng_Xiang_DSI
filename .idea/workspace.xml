@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b37f6a-dd9b-45cd-87a6-793536ff8ed2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 3/Day3_Casting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 3/js/Day3_Casting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 3/js/day3_prompts.js" afterPath="$PROJECT_DIR$/Day 3/js/day3_prompts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 3/js/Day3_Casting.js" afterPath="$PROJECT_DIR$/Day 3/js/Day3_Casting.js" />
     </list>
     <ignored path="Peng_Xiang_DSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,20 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Day3_Casting.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Day3_Casting.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 3/js/Day3_Casting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="0.84513277">
+              <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day3_Casting.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Day3_Casting.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 3/Day3_Casting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1146789">
+            <state vertical-scroll-proportion="-3.125">
               <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
@@ -72,8 +71,8 @@
         <option value="$PROJECT_DIR$/Day 3/js/day3_array.js" />
         <option value="$PROJECT_DIR$/Day 3/Day3Prompts.html" />
         <option value="$PROJECT_DIR$/Day 3/js/day3_prompts.js" />
-        <option value="$PROJECT_DIR$/Day 3/js/Day3_Casting.js" />
         <option value="$PROJECT_DIR$/Day 3/Day3_Casting.html" />
+        <option value="$PROJECT_DIR$/Day 3/js/Day3_Casting.js" />
       </list>
     </option>
   </component>
@@ -349,19 +348,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/js/Day3_Casting.js">
+    <entry file="file://$PROJECT_DIR$/Day 3/Day3_Casting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/Day3_Casting.html">
+    <entry file="file://$PROJECT_DIR$/Day 3/js/Day3_Casting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1146789">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.84513277">
+          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
