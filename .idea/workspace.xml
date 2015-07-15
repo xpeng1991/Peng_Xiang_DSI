@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0b37f6a-dd9b-45cd-87a6-793536ff8ed2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/js/Conditionals_worksheet.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/js/Conditionals_worksheet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/js/Test.js" afterPath="$PROJECT_DIR$/Test/js/Test.js" />
     </list>
     <ignored path="Peng_Xiang_DSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +27,11 @@
       <file leaf-file-name="Conditionals_worksheet.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Conditionals_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48672566">
-              <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+            <state vertical-scroll-proportion="1.880531">
+              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/js/Test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="95" selection-end-column="2" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -86,10 +77,10 @@
         <option value="$PROJECT_DIR$/Peng_Xiang_Expressions_Assignment/Average calculator.html" />
         <option value="$PROJECT_DIR$/Peng_Xiang_Expressions_Assignment/js/Calc.js" />
         <option value="$PROJECT_DIR$/Test/Test.html" />
-        <option value="$PROJECT_DIR$/Test/js/Test.js" />
         <option value="$PROJECT_DIR$/Day 4/Day4_conditionals.html" />
         <option value="$PROJECT_DIR$/Day 4/js/Day4_conditionals.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/Conditionals_worksheet.html" />
+        <option value="$PROJECT_DIR$/Test/js/Test.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/Conditionals_worksheet.js" />
       </list>
     </option>
@@ -136,38 +127,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Peng_Xiang_DSI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Peng_Xiang_DSI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Peng_Xiang_DSI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Peng_Xiang_DSI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Peng_Xiang_DSI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -436,6 +395,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Test/js/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11061947">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Conditionals_worksheet.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125">
@@ -444,18 +411,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/js/Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="95" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Conditionals_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48672566">
-          <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+        <state vertical-scroll-proportion="1.880531">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
