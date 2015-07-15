@@ -87,6 +87,34 @@ alert("You have a " + grade + "%, which means you have earned a(n) " +
 
 
 
+// Movie Ticket Price
+
+// Ask users for age
+var age = prompt("Please enter your age");
+
+// Ask users for movie time
+var time = prompt("What time will you see this movie?\n" +
+    "enter the hour only");
+
+
+// price under different conditions
+// show result
+if (age < 10 || age >= 55)
+{
+ alert("The ticket price is $7.00.");
+}
+
+else if (time > 3 || time < 5)
+{
+ alert("The ticket price is $7.00.");
+}
+
+else
+{
+ alert("The ticket price is $12.00.");
+}
+
+
 
 
 
