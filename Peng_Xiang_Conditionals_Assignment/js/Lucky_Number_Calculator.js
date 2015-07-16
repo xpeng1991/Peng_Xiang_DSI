@@ -96,8 +96,22 @@ do
 console.log(num3);
 
 
-
-
+// Set up equations to calculate a lucky number for the user
+// getting first factor
+var factor1 = 0;
+if (age <= 35)
+{
+ factor1 = Math.floor(Math.random()*(25-1) + 1);
+}
+else if (age > 35 && age <= 100)
+{
+ factor1 = Math.ceil(Math.random()*(50 - 25) + 25);
+}
+else 
+{
+ factor1 = Math.round(Math.random()*(100 - 50) + 50);
+}
+console.log(factor1);
 
 
 
