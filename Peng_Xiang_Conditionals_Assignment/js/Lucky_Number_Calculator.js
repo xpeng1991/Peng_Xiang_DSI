@@ -18,7 +18,7 @@ Age, Gender, Three random numbers from user, another random factor.
  */
 
 
-if (0) {
+
 
 // Basic introduction
  alert("This is a lucky number calculator.");
@@ -68,7 +68,7 @@ if (0) {
  var genderNumber = (gender ? 2.5 : 5.2);
  console.log(genderNumber);
 
-} /// test
+
 
 // Get three random numbers from users
 // Getting first number
@@ -107,13 +107,21 @@ else if (age > 35 && age <= 100)
 {
  factor1 = Math.ceil(Math.random()*(50 - 25) + 25);
 }
-else 
+else
 {
  factor1 = Math.round(Math.random()*(100 - 50) + 50);
 }
 console.log(factor1);
 
+// getting second factor
+var factor2 = 0;
+factor2 = genderNumber * (Math.random()*(10 - 1) + 1);
 
+// final equation
+var luckyNum = 0;
+luckyNum = ((((factor1 + factor2) * num1) % num2) + num3) / factor2;
+luckyNum = Math.round(luckyNum);
+console.log(luckyNum);
 
 
 
