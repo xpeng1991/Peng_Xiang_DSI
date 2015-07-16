@@ -149,7 +149,22 @@ else // if luckyNum > 99
  alert("Your lucky number is: " + luckyNum + "!");
 }
 
+if (luckyNum < 0)
+{
+ luckyNum *= -1;
+}
+console.log("Lucky number is: " + luckyNum);
 
+/*
+
+========================
+Test Table
+
+Test 1: Input: 24, M, 3.7, 68.3, 984; Output: 14;
+
+Test 2: Input:
+
+ */
 
 
 
