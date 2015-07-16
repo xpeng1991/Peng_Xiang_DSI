@@ -89,7 +89,7 @@ if (0)
 
 
 
-if (0)
+if (1)
 {
 // Movie Ticket Price
 
@@ -107,7 +107,7 @@ if (0)
   alert("The ticket price is $7.00.");
  }
 
- else if (time > 3 || time < 5) {
+ else if (time >= 3 && time <= 5) {
   alert("The ticket price is $7.00.");
  }
 
