@@ -165,7 +165,7 @@ Test 2: Input: 76, f, 10,  15,   352; Output: 49;
 
 Test 3: Input: 32, m, 7.7, 25,   888; Output: 282;
 
-Test 4: Input: 
+Test 4: Input: 56, F, 5,   50,   500; Output: 466;
 
  */
 
