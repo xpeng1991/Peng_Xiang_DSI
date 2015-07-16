@@ -123,7 +123,31 @@ luckyNum = ((((factor1 + factor2) * num1) % num2) + num3) / factor2;
 luckyNum = Math.round(luckyNum);
 console.log(luckyNum);
 
-
+// get a lucky number and the show the final result
+if (luckyNum < 0)
+{
+ luckyNum += Math.random()*(99 - 1) + 1;
+ luckyNum = Math.round(luckyNum);
+ alert("Your lucky number is: " + luckyNum + "!");
+}
+else if (luckyNum > 0 && luckyNum < 10)
+{
+ luckyNum += Math.random()*(40 - 10) + 10;
+ luckyNum = Math.round(luckyNum);
+ alert("Your lucky number is: " + luckyNum + "!");
+}
+else if (luckyNum > 10 && luckyNum < 99)
+{
+ luckyNum -= Math.random()*(10 - 1) + 1;
+ luckyNum = Math.round(luckyNum);
+ alert("Your lucky number is: " + luckyNum + "!");
+}
+else // if luckyNum > 99
+{
+ luckyNum -= Math.random()*(80 - 40) + 40;
+ luckyNum = Math.round(luckyNum);
+ alert("Your lucky number is: " + luckyNum + "!");
+}
 
 
 
