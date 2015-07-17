@@ -31,7 +31,7 @@ Age, Gender, Three random numbers from user, another random factor.
 
   age = prompt("Please enter your age here, you can use decimal if you want.");
 
- } while (age === 0 || age === "" || (age <= 0 || age >= 300) || isNaN(age));
+ } while (((age === 0 || age === "" )|| (age <= 0 || age >= 300) )|| isNaN(age));
 
  console.log("Age: " + age);
 
@@ -76,7 +76,7 @@ var num1 = 0;
 do
 {
  num1 = prompt("Please enter a random number between 0 to 10, can be decimal");
-} while(num1 > 10 || num1 < 0 || isNaN(num1) || num1 === "");
+} while(((num1 > 10 || num1 < 0 )|| isNaN(num1) )|| num1 === "");
 console.log("First random number: " + num1);
 
 // Getting second number
@@ -84,7 +84,7 @@ var num2 = 0;
 do
 {
  num2 = prompt("Please enter a random number between 10 to 100, can be decimal");
-} while(num2 > 100 || num2 < 10 || isNaN(num2) || num2 === "" || num2 === 0);
+} while((((num2 > 100 || num2 < 10 )|| isNaN(num2) )|| num2 === "" )|| num2 === 0);
 console.log("Second random number: " + num2);
 
 // Getting third number
@@ -92,7 +92,7 @@ var num3 = 0;
 do
 {
  num3 = prompt("Please enter a random number between 100 to 1000, can be decimal");
-} while(num3 > 1000 || num3 < 100 || isNaN(num3) || num3 === "" || num3 === 0);
+} while((((num3 > 1000 || num3 < 100 )|| isNaN(num3) )|| num3 === "" )|| num3 === 0);
 console.log("Third random number: " + num3);
 
 
@@ -121,7 +121,7 @@ factor2 = Math.round(factor2);
 
 // final equation
 var luckyNum = 0;
-luckyNum = ((((factor1 + factor2) * num1) % num2) + num3) / factor2;
+luckyNum = ((((factor1 + factor2) * num1) % num2) + Number(num3)) / factor2;
 luckyNum = Math.round(luckyNum);
 
 
