@@ -8,8 +8,10 @@
 
 //alert("Testing to see if this works");
 
+
+
+
 // While Loop
-// These are simple examples of loops
 
 // user enter a random through 1 to 10
 // then there will be popup window that shows the number user entered
@@ -34,29 +36,18 @@ if (0) {
 
 
 // Do While Loop
+if (0) {
+ var fruit = 0;
+ var numFruit = 0;
 
-var fruit = ["x"];
-var numFruit = 0;
-do
-{
- numFruit = prompt("How many fruit do you want? (1 - 5)");
-} while((((numFruit < 1 || numFruit > 5 )|| numFruit === 0 )|| numFruit === "" )|| isNaN(numFruit));
-console.log(numFruit);
-
-var times = 0;
-do
-{
  do
  {
-  fruit[times] = prompt("Which one do you want to eat? (Simple enter the first letter)\n" +
-      "[O]Orange\n" +
-      "[A]Apple\n" +
-      "[G]Grape\n" +
-      "[L]Lemon");
- } while (((fruit.toLowerCase() != "o" || fruit.toLowerCase() != "a" )|| fruit.toLowerCase() != "g" )||
-     fruit.toLowerCase() != "l");
- times ++;
-} while (times <= numFruit);
+  fruit = prompt("Do you want to eat fruit? (Y/N)");
+ } while (((fruit != 'y' || fruit != 'n' ) ||
+ fruit != 'Y' ) || fruit != 'N');
+
+
+}
 
 
 
@@ -69,13 +60,38 @@ do
 
 
 
-
-
-
-
-
-
-
+if(0)
+{
 // For Loop
+
+// basic vars
+ var num2 = 0;
+ var star = [0];
+
+// ask user how many stars they want, input valid
+ do
+ {
+  num2 = prompt("How many stars do you want? (1 - 10)");
+ } while (((num2 > 10 || num2 < 1 ) || num2 === "" ) || isNaN(num2));
+
+// put stars into array
+ for (var i = 0; i < num2; i++) {
+  star[i] = "* ";
+ }
+
+// show the answer
+ alert("You have " + num2 + " stars!\n" + star);
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
