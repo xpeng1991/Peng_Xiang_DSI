@@ -52,7 +52,7 @@ if (1) {
   // getting input from user
   do
   {
-   fruit = prompt("Do you want to eat fruit? (Y/N)");
+   fruit = prompt("Do you like to eat fruit? (Y/N)");
   } while (fruit.toLowerCase() != 'y' && fruit.toLowerCase() != 'n');
 
   // if the user entered yes, this loops is over and show the result
@@ -93,7 +93,7 @@ if (1) {
 
 // put stars into array
   for (var i = 0; i < num2; i++) {
-   star[i] = "* ";
+   star[i] = "*star* ";
   }
 
 // show the answer
