@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b37f6a-dd9b-45cd-87a6-793536ff8ed2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/Day6_ForLoop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/js/Day6_ForLoop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/Day6_Math.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/js/Day6_Math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/Day6_WhileLoop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/js/Day6_WhileLoop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops_worksheet/Loops_worksheet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js" />
     </list>
     <ignored path="Peng_Xiang_DSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,8 +26,8 @@
       <file leaf-file-name="Loops_worksheet.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7743363">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.7522124">
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -521,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7743363">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.7522124">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
