@@ -69,7 +69,7 @@ if (1) {
    {
     alert("Eat more fruit!");
     count++;
-   } while (count < 9)
+   } while (count < 9);
    fruit = "n";
   }
  } while (fruit.toLowerCase() != 'y');
