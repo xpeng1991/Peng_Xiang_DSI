@@ -29,3 +29,30 @@ console.log("Array: " + arr);
 alert("You entered: " + arr);
 
 // show other results
+// after subtract by 5
+for (var j = 0; j < arr.length; j++)
+{
+ arr[j] -= 5;
+}
+console.log("Sub 5: " + arr);
+alert("After subtract 5, they are: " + arr);
+
+
+// then times 2.3
+for (var k = 0; k < arr.length; k++)
+{
+ arr[k] *= 2.3;
+}
+console.log("Times 2.3: " + arr);
+alert("Then times 2.3, they are: " + arr);
+
+
+
+
+
+
+
+
+
+
+
