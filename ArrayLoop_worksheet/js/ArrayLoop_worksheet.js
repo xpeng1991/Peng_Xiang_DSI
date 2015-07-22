@@ -46,7 +46,7 @@ for (var k = 0; k < arr.length; k++)
 console.log("Times 2.3: " + arr);
 alert("Then times 2.3, they are: " + arr);
 
-
+// tested and no bug
 
 
 
