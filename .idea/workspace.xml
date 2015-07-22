@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b37f6a-dd9b-45cd-87a6-793536ff8ed2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArrayLoop_worksheet/ArrayLoop_worksheet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js" afterPath="$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js" />
     </list>
     <ignored path="Peng_Xiang_DSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="ArrayLoop_worksheet.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25345623">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48672566">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -423,6 +422,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79646015">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -533,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25345623">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.48672566">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
