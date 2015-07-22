@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b37f6a-dd9b-45cd-87a6-793536ff8ed2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArrayLoop_worksheet/ArrayLoop_worksheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js" />
     </list>
     <ignored path="Peng_Xiang_DSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Loops_worksheet.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js">
+      <file leaf-file-name="ArrayLoop_worksheet.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7079646">
-              <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.25345623">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -35,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Loops_worksheet.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Loops_worksheet/Loops_worksheet.html">
+      <file leaf-file-name="ArrayLoop_worksheet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArrayLoop_worksheet/ArrayLoop_worksheet.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -93,6 +94,8 @@
         <option value="$PROJECT_DIR$/Day6/js/Day6_ForLoop.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/Loops_worksheet.html" />
         <option value="$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js" />
+        <option value="$PROJECT_DIR$/ArrayLoop_worksheet/ArrayLoop_worksheet.html" />
+        <option value="$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js" />
       </list>
     </option>
   </component>
@@ -161,7 +164,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Loops_worksheet" />
+              <option name="myItemId" value="ArrayLoop_worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -175,7 +178,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Loops_worksheet" />
+              <option name="myItemId" value="ArrayLoop_worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -512,8 +515,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/Loops_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7079646">
+        <state vertical-scroll-proportion="0.0">
           <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayLoop_worksheet/ArrayLoop_worksheet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayLoop_worksheet/js/ArrayLoop_worksheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25345623">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
