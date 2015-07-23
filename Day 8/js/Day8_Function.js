@@ -38,8 +38,57 @@ printMore();
 // function calculates the area of a rectangle
 function calcArea()
 {
- // 
+ // calculate and console.log
 }
+
+
+
+// variable scope
+// variables that are inside and outside of a function
+
+
+// create a variable called width in main code
+var width = 5;
+
+
+// arguments and parameters
+
+function calArea(w, h)
+{
+ var area = w * h;
+}
+
+calArea(5, 10);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
