@@ -31,6 +31,13 @@ console.log("The circumference of the circle is " + result1);
 // create function
 function beeString(w)
 {
- return w * 8.666666667
+ return w * 8.666666667;
 }
+
+// get weight
+var weight = prompt("enter a weight: ");
+
+// show the result
+var result2 = beeString(weight);
+console.log("It takes " + result2 + " bee stings to kill this animal.");
 
