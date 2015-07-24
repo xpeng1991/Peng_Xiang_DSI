@@ -15,7 +15,7 @@
 // create function
 function cirCalc(rad)
 {
- return (rad * 3.14 * 2);
+ return (rad * Math.PI * 2);
 }
 
 // get a simple number and call the function
@@ -23,7 +23,8 @@ var num = prompt("enter a number: ");
 
 // show the result
 var result1 = cirCalc(num);
-console.log("The circumference of the circle is " + result1);
+console.log("The circumference of the circle is " + result1.toFixed(2));
+
 
 
 
@@ -39,7 +40,7 @@ var weight = prompt("enter a weight (pound): ");
 
 // show the result
 var result2 = beeString(weight);
-console.log("It takes " + result2 + " bee stings to kill this animal.");
+console.log("It takes " + result2.toFixed(2) + " bee stings to kill this animal.");
 
 
 // all test past
