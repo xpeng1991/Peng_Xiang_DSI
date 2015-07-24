@@ -39,6 +39,7 @@ printMore();
 function calcArea()
 {
  // calculate and console.log
+ console.log("print");
 }
 
 
@@ -52,14 +53,15 @@ var width = 5;
 
 
 // arguments and parameters
-
+// return a value
 function calArea(w, h)
 {
- var area = w * h;
+ var recTan = w * h;
+ return recTan;
 }
 
-calArea(5, 10);
-
+var result = calArea(5, 10);
+console.log(result);
 
 
 
