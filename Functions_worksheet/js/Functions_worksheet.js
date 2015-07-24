@@ -19,4 +19,13 @@ function cirCalc(rad)
 }
 
 // get a simple number and call the function
+var num = prompt("enter a number: ");
+
+// show the result
+var result1 = cirCalc(num);
+console.log("The circumference of the circle is " + result1);
+
+
+
+// Stung!
 
