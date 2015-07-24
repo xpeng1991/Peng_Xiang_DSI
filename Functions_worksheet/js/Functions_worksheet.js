@@ -35,9 +35,11 @@ function beeString(w)
 }
 
 // get weight
-var weight = prompt("enter a weight: ");
+var weight = prompt("enter a weight (pound): ");
 
 // show the result
 var result2 = beeString(weight);
 console.log("It takes " + result2 + " bee stings to kill this animal.");
 
+
+// all test past
