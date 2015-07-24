@@ -15,7 +15,7 @@
 // create function
 function cirCalc(rad)
 {
- return circ = rad * 3.14 * 2;
+ return (rad * 3.14 * 2);
 }
 
 // get a simple number and call the function
@@ -28,4 +28,9 @@ console.log("The circumference of the circle is " + result1);
 
 
 // Stung!
+// create function
+function beeString(w)
+{
+ return w * 8.666666667
+}
 
