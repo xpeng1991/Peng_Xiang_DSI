@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b37f6a-dd9b-45cd-87a6-793536ff8ed2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 9/procedures.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 9/js/procedures.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9/js/random.js" afterPath="$PROJECT_DIR$/Day 9/js/random.js" />
     </list>
     <ignored path="Peng_Xiang_DSI.iws" />
@@ -23,23 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="random.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 9/js/random.js">
+      <file leaf-file-name="procedures.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 9/js/procedures.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80088496">
-              <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="random.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 9/random.html">
+      <file leaf-file-name="procedures.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 9/procedures.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.1146789">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -101,6 +101,7 @@
         <option value="$PROJECT_DIR$/Functions_worksheet/js/Functions_worksheet.js" />
         <option value="$PROJECT_DIR$/Day 9/random.html" />
         <option value="$PROJECT_DIR$/Day 9/js/random.js" />
+        <option value="$PROJECT_DIR$/Day 9/procedures.html" />
       </list>
     </option>
   </component>
@@ -593,11 +594,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 9/js/random.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80088496">
-          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9/js/procedures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9/procedures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1146789">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
