@@ -40,6 +40,8 @@ do
 // call the function and catch the return value
 volume = cube;
 
+// anonymous function
+
 
 
 
