@@ -38,12 +38,13 @@ console.log("length: " + length);
 // height
 do
 {
- height = prompt("Please enter the width of a cube that you want to calculate (no zero):");
+ height = prompt("Please enter the height of a cube that you want to calculate (no zero):");
  height = Number(height);
 } while(height == 0 || height == "" || isNaN(height));
 console.log("height: " + height);
 
 
+/////////////////////////////////////////////////
 // call the function and catch the return value
 volume = cube(width, length, height);
 console.log("volume: " + volume);
