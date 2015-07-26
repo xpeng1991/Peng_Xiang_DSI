@@ -79,9 +79,11 @@ function cube(w, l, h)
 /////////////////////////////////
 // Test Table
 
-// Test 1 Inputs: 
+// Test 1 Inputs: 5,   45,    6      Output: 675
 
+// Test 2 Inputs: 78,  32,    12     Output: 29952
 
+// Test 3 Inputs: 3,   4,     5      Output: 60
 
 
 
