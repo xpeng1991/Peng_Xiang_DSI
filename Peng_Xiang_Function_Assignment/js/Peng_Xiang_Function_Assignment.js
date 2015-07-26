@@ -73,3 +73,22 @@ function cube(w, l, h)
  vol = Number(vol);
  return vol;
 }
+
+
+
+/////////////////////////////////
+// Test Table
+
+// Test 1 Inputs: 
+
+
+
+
+
+
+
+
+
+
+
+
