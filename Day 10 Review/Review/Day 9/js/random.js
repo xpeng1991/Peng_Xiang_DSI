@@ -78,7 +78,7 @@ for(var i = 0 ; i < 15 ; i++)
 //console.log the array
 console.log(randomArray);
 //Console.log the total
-console.log("The total of 15 random numbers is "+total+".");
+alert("The total of 15 random numbers is "+total+".");
 
 
 
@@ -90,6 +90,9 @@ function randomizer(mn,mx)
  return Math.round(Math.random()*(mx-mn)+mn);
  //console.log(randomNum);
 }
+
+
+
 
 
 
