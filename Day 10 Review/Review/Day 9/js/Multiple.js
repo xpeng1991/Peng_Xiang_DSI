@@ -24,8 +24,8 @@ console.log(resultsArea);
 
 //Create a function to calc the perimeter or a rectangle
 var calcPeri = function(h,w){
- var periTotal = 2*h + 2*w;
- return periTotal;
+ return 2*h + 2*w;
+
 };
 
 //Funtional call must go under function definintion for Anons
@@ -35,14 +35,14 @@ console.log(resultsPeri);
 
 //Create a function to calc the area of a rectangle
 function calcArea(h,w){
- var area = w*h;
- return area;
+ return w*h;
+
 }
 
 //Create a anon function to calc the area of triangle
 var triArea = function(b,h){
- var area = .5*b*h;
- return area;
+ return .5*b*h;
+
 };
 
 

@@ -56,8 +56,8 @@ var width = 5;
 // return a value
 function calArea(w, h)
 {
- var recTan = w * h;
- return recTan;
+ return w * h;
+
 }
 
 var result = calArea(5, 10);
